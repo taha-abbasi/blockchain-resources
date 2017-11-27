@@ -51,3 +51,9 @@ The resources are divided into a few categories. Here is an outline of these cat
 ### Demos
 * [**How Does The Blockchain Work?**](http://blockchain-demo.tahaabbasi.com/)
 * More coming soon
+
+***
+
+Originally published at [Taha Abbasi's Blog](https://tahaabbasi.com/blog/blockchain-resources/)
+
+Also published on [Medium](https://medium.com/recreatenow/blockchain-resources-17bc0c363824)
