@@ -46,7 +46,7 @@ The resources are divided into a few categories. Here is an outline of these cat
 * [**What Is Cryptocurrency?**](https://medium.com/recreatenow/what-the-heck-is-cryptocurrency-27538dbbc58d)
 * [**Why Do We Need Blockchain?**](https://medium.com/recreatenow/the-centralized-disaster-3ac421d94cb1)
 * [**Blockchain An Extended Explanation**](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)
-* [**Crypto Guides - Learn About Bitcoin, Ethereum, Cryptocurrency and Blockchain**](https://www.upfolio.com/guides) **With Illustrations**
+* [**Crypto Guides - Learn About Bitcoin, Ethereum, Cryptocurrency and Blockchain**](https://www.upfolio.com/guides) **with illustrations**
 * More coming soon
 
 ### Demos
