@@ -47,6 +47,7 @@ The resources are divided into a few categories. Here is an outline of these cat
 * [**Why Do We Need Blockchain?**](https://medium.com/recreatenow/the-centralized-disaster-3ac421d94cb1)
 * [**Blockchain An Extended Explanation**](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)
 * [**Crypto Guides - Learn About Bitcoin, Ethereum, Cryptocurrency and Blockchain**](https://www.upfolio.com/guides) **with illustrations**
+* [**Crypto Feeds – Live Cryptocurrency News Aggregator**](https://www.geekwrapped.com/cryptocurrency)
 * More coming soon
 
 ### Demos
